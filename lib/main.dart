@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:world_clock/screen/change_place.dart';
-import 'package:world_clock/screen/loading.dart';
+import 'package:clock_app/screen/change_place.dart';
+import 'package:clock_app/screen/loading.dart';
 import 'screen/home_screen.dart';
 
 void main() {

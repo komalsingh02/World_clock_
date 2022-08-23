@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:world_clock/world_time_logic.dart';
+import 'package:clock_app/world_time_logic.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
